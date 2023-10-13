@@ -2,7 +2,7 @@
 
 - 👋 Hi there, I'm Ethan Flores and am currently a student at UCSD.
 - 🔭 I’m interested in and am working on projects involving machine learning, data science, and data analytics.
-- ⚡ I’m looking for professional work through internships or interesting projects.
+- 🌱 I’m looking for professional work through internships or interesting projects.
 
 <!--
 **etflores1/etflores1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
