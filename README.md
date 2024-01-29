@@ -1,4 +1,4 @@
-- 👋 Hi there, I'm Ethan Flores and am currently a student at UCSD.
+- 👋 Hi there, I'm Ethan Flores and am currently a university student.
 - 🔭 I’m interested in and am working on projects involving machine learning, data science, and data analytics.
 - 🌱 I’m looking for professional work through internships or interesting projects.
 
